@@ -12,6 +12,7 @@ namespace Encriptacion_Simul
 {
     public partial class Version31 : Form
     {
+        List<int> numerosrnd = new List<int>();
         bool borradoAutomatico = false;
         string resultadoPendiente = "";
         string TextoTemp = "";
@@ -46,7 +47,6 @@ namespace Encriptacion_Simul
         public int Llave()
         {
             Random rnd = new Random();
-
             int numeroRandom = rnd.Next(1, 101);
 
             int hora = DateTime.Now.Hour;
@@ -153,9 +153,12 @@ namespace Encriptacion_Simul
             modoEncriptar = true;
 
             resultadoPendiente = "";
+            numerosrnd.Clear();
 
             foreach (char c in TextoTemp)
             {
+                int llave = rnd.Next(1, 101);
+                numerosrnd.Add(llave);
                 int desplazado = (c + llave) % char.MaxValue;
                 resultadoPendiente += (char)desplazado;
             }
@@ -201,16 +204,13 @@ namespace Encriptacion_Simul
 
             TextoTemp = ResultadoEncrip.Text;
             modoEncriptar = false;
-
             resultadoPendiente = "";
 
-            foreach (char c in TextoTemp)
-            {
-                int desplazado = (c - llave) % char.MaxValue;
-
+            for (int i = 0; i < TextoTemp.Length; i++)
+            {                 
+                int desplazado = TextoTemp[i] - numerosrnd[i];
                 if (desplazado < 0)
                     desplazado += char.MaxValue;
-
                 resultadoPendiente += (char)desplazado;
             }
 

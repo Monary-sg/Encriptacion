@@ -90,3 +90,18 @@ C:\Users\monse\OneDrive\Escritorio\Encriptacion Simul3 (2)\Encriptacion Simul3\E
 C:\Users\monse\OneDrive\Escritorio\Encriptacion Simul3 (2)\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.csproj.CoreCompileInputs.cache
 C:\Users\monse\OneDrive\Escritorio\Encriptacion Simul3 (2)\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.exe
 C:\Users\monse\OneDrive\Escritorio\Encriptacion Simul3 (2)\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.pdb
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\bin\Debug\Encriptacion Simul.exe.config
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\bin\Debug\Encriptacion Simul.exe
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\bin\Debug\Encriptacion Simul.pdb
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.exe.config
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion_Simul.FMenu.resources
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion_Simul.Version1.resources
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion_Simul.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion_Simul.Version2.resources
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion_Simul.Version3.resources
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion_Simul.Version31.resources
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.exe
+C:\Users\ASUS\Desktop\Encriptar\Encriptacion\Encriptacion Simul3\Encriptacion Simul\Encriptacion Simul\obj\Debug\Encriptacion Simul.pdb
